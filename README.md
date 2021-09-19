@@ -1,0 +1,2 @@
+# Hello-Word
+simple exercise
